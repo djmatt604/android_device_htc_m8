@@ -101,8 +101,8 @@ PRODUCT_PACKAGES += \
     camera.msm8974
 
 # Device Handler
-PRODUCT_PACKAGES += \
-    DeviceHandler
+# PRODUCT_PACKAGES += \
+#    DeviceHandler
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
